@@ -1,63 +1,46 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=PREM%20HARI%20S&fontSize=70&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&fontColor=00FFD1&stroke=00FFD1&strokeWidth=2&animation=fadeIn&fontAlignY=48&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20React%20Native&descAlignY=68&descSize=15&descColor=7FFFD4" />
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&text=PREM%20HARI%20S&fontSize=72&color=0:0a0a0f,40:0d1b2a,100:0a0a0f&fontColor=00FFD1&stroke=00FFD1&strokeWidth=2&animation=fadeIn&fontAlignY=46&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20React%20Native&descAlignY=68&descSize=14&descColor=7FFFD4" />
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=800&color=00FFD1&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;React+Native+%7C+Android+App+Builder;UI%2FUX+Designer+%7C+Figma;B.Sc+Computer+Technology+%40+SKAC+Coimbatore;Intern+%40+NxtLogics+Software+Solutions;Crafting+ideas+into+production-grade+software" alt="Typing SVG" />
-
-</div>
+<!-- ANIMATED ROLE TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2400&pause=900&color=00FFD1&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;React+Native+%7C+Android+Developer;UI%2FUX+Designer+%7C+Figma;B.Sc+Computer+Technology+%40+SKAC;Intern+%40+NxtLogics+Software+Solutions;Turning+ideas+into+production-grade+software" alt="Typing" />
 
 <br/>
 
-<div align="center">
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/premhari07">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.instagram.com/prem_lynx_25/">
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="mailto:haripradeep185@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://prem-hari-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00FFD1?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
-<a href="https://www.linkedin.com/in/premhari07"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://www.instagram.com/prem_lynx_25/"><img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
-<a href="mailto:haripradeep185@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://prem-hari-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00FFD1?style=for-the-badge&logo=vercel&logoColor=black" /></a>&nbsp;
-<a href="https://github.com/Premhari-7"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Premhari-7&label=FOLLOWERS&query=$.followers&color=00FFD1&style=for-the-badge&logo=github&logoColor=black" /></a>
+<br/><br/>
+
+<!-- VISITOR COUNTER — most reliable service -->
+<img src="https://profile-counter.glitch.me/Premhari-7/count.svg" alt="Visitor Count" />
 
 </div>
-
-<br/>
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&width=100%" />
-</div>
+<!-- AVATAR + BIO SIDE BY SIDE -->
+<img align="right" src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/avatar.jpeg" width="200" style="border-radius:16px; margin-left:20px;" />
 
-<br/>
+### PREM HARI S
 
-```javascript
-╔══════════════════════════════════════════════════════════════╗
-║                    INITIALIZING PROFILE...                   ║
-╠══════════════════════════════════════════════════════════════╣
+**B.Sc Computer Technology** — Sri Krishna Arts and Science College, Coimbatore
+**CGPA:** 8.4 &nbsp;|&nbsp; **Year:** 2nd
+**Intern:** NxtLogics Software Solutions
 
-  const premHari = {
-    name       :  "Prem Hari S",
-    role       :  ["Full Stack Developer", "UI/UX Designer",
-                   "React Native Developer"],
-    college    :  "Sri Krishna Arts and Science College, Coimbatore",
-    degree     :  "B.Sc Computer Technology  —  CGPA 8.4  —  2nd Year",
-    intern     :  "NxtLogics Software Solutions",
-    skills     :  ["MERN Stack", "React Native", "Figma", "Node.js"],
-    languages  :  ["JavaScript", "TypeScript", "Python", "Java", "C"],
-    certified  :  ["Google UX Design", "Google AI Essentials",
-                   "NPTEL Silver", "JLPT N5"],
-    portfolio  :  "https://prem-hari-portfolio.vercel.app/",
-    contact    :  "haripradeep185@gmail.com",
-    building   :  "Nihongo Learning Platform — React Native"
-  };
+A passionate full-stack developer who builds real-world MERN and React Native applications. Strong interest in clean UI design, system architecture, and mobile-first development. Currently building the **Nihongo Learning Platform** — a JLPT exam prep app for Android.
 
-║                      PROFILE LOADED  ✓                       ║
-╚══════════════════════════════════════════════════════════════╝
-```
+**Certified in:** Google UX Design &nbsp;·&nbsp; Google AI Essentials &nbsp;·&nbsp; NPTEL Silver &nbsp;·&nbsp; JLPT N5
 
-<br/>
+<br clear="right"/>
 
 ---
 
@@ -65,36 +48,32 @@
 
 <div align="center">
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,html,css&theme=dark&perline=7" />
-
-<br/><br/>
-
-**FRONTEND & MOBILE**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark&perline=7" />
-
+**Languages**
 <br/>
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,html,css&theme=dark" />
 
 <br/><br/>
 
-**BACKEND & DATABASE**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark&perline=7" />
+**Frontend & Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 
 <br/><br/>
 
-**TOOLS**
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,androidstudio&theme=dark&perline=7" />
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,androidstudio&theme=dark" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -104,62 +83,56 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-**01 — Nihongo Learning Platform**
-<br/>
-Full-stack JLPT exam prep mobile app. AI samurai chatbot, animated certificates, push notifications, progress tracking.
+**Nihongo Learning Platform**
+<br/><sub>React Native · Expo · Node.js · MongoDB</sub>
 <br/><br/>
-`React Native` `Expo` `Node.js` `MongoDB` `Express`
+Full-stack JLPT exam prep Android app with AI samurai chatbot, animated certificates, push notifications and progress tracking.
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-**02 — Maatram Alumni Connect**
-<br/>
-Alumni networking platform with role-based access, event management, real-time activity feeds and admin controls.
+**Maatram Alumni Connect**
+<br/><sub>React · Node.js · MongoDB · Socket.io</sub>
 <br/><br/>
-`React` `Node.js` `MongoDB` `Socket.io`
+Alumni networking platform with role-based dashboards, event management and real-time activity feeds.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-**03 — Plant Disease Analyzer**
-<br/>
-AI-powered plant health detection with image recognition, disease classification and treatment recommendations.
+**Plant Disease Analyzer**
+<br/><sub>Python · TensorFlow · React · FastAPI</sub>
 <br/><br/>
-`Python` `TensorFlow` `React` `FastAPI`
+AI-powered plant health detection with image recognition, disease classification and treatment suggestions.
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-**04 — Smart Parking System**
-<br/>
-IoT-integrated real-time parking slot tracking, QR-based booking and live availability dashboard.
+**Smart Parking System**
+<br/><sub>MERN Stack · Socket.io · IoT</sub>
 <br/><br/>
-`MERN Stack` `IoT` `Socket.io`
+Real-time IoT parking slot tracker with QR-based booking and a live availability dashboard.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-**05 — Scent Bite**
-<br/>
-Full-featured fragrance e-commerce platform with product filtering, cart management and auth flow.
+**Scent Bite**
+<br/><sub>MERN Stack · Tailwind CSS · JWT</sub>
 <br/><br/>
-`MERN Stack` `Tailwind CSS` `JWT`
+Full-featured fragrance e-commerce platform with product filtering, cart management and JWT auth.
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-**06 — GUVI Auth System**
-<br/>
-Multi-page authentication system with glassmorphism UI, Redis caching, session management and MongoDB backend.
+**GUVI Auth System**
+<br/><sub>Bootstrap · PHP · MongoDB · Redis</sub>
 <br/><br/>
-`Bootstrap` `PHP` `MongoDB` `Redis`
+Multi-page auth system with glassmorphism UI, Redis session caching and MongoDB backend.
 
 </td>
 </tr>
@@ -167,46 +140,35 @@ Multi-page authentication system with glassmorphism UI, Redis caching, session m
 
 </div>
 
-<br/>
-
 ---
 
 ## GITHUB STATS
 
 <div align="center">
 
-<a href="https://github.com/Premhari-7">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Premhari-7&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true&card_width=400" />
-</a>
-<a href="https://github.com/Premhari-7">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Premhari-7&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=00FFD1&stroke=00FFD1" />
-</a>
+<!-- Using githubstats.me — most reliable 2025 alternative -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Premhari-7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=C9D1D9&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=1800" />
+&nbsp;
+<img height="160" src="https://streak-stats.demolab.com/?user=Premhari-7&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=94A3B8&dates=555&currStreakNum=FFFFFF&sideNums=00FFD1&stroke=00FFD130" />
 
 <br/><br/>
 
-<a href="https://github.com/Premhari-7">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premhari-7&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=C9D1D9&langs_count=8&card_width=400" />
-</a>
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premhari-7&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=C9D1D9&langs_count=8&cache_seconds=1800" />
 
 <br/><br/>
 
-<a href="https://github.com/Premhari-7">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Premhari-7&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&area_color=00FFD120&hide_border=true&custom_title=Prem+Hari+Contribution+Graph" />
-</a>
+<!-- Activity Graph — most stable provider -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Premhari-7&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&area_color=00332a&hide_border=true&custom_title=Prem+Hari+%E2%80%94+Contribution+Graph" />
 
 </div>
-
-<br/>
 
 ---
 
 ## TROPHIES
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Premhari-7&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" />
+<img src="https://github-profile-trophy.vercel.app/?username=Premhari-7&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=8" />
 </div>
-
-<br/>
 
 ---
 
@@ -214,18 +176,17 @@ Multi-page authentication system with glassmorphism UI, Redis caching, session m
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google_UX_Design-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_AI_Essentials-EA4335?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/NPTEL_Silver-FF6B00?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/JLPT_N5-DC143C?style=for-the-badge&logo=duolingo&logoColor=white" />
-<img src="https://img.shields.io/badge/NxtLogics_Internship-00FFD1?style=for-the-badge&logo=checkmarx&logoColor=black" />
+<img src="https://img.shields.io/badge/Google_UX_Design-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Google_AI_Essentials-EA4335?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/NPTEL_Silver-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/JLPT_N5-DC143C?style=for-the-badge&logo=duolingo&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/NxtLogics_Intern-00FFD1?style=for-the-badge&logo=checkmarx&logoColor=black" />
 
 </div>
 
-<br/>
-
 ---
 
+<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=130&section=footer&text=Let%27s+Build+Something+Real&fontSize=20&fontColor=00FFD1&fontAlignY=65&animation=fadeIn" />
 
 <div align="center">
@@ -235,9 +196,6 @@ Multi-page authentication system with glassmorphism UI, Redis caching, session m
 Turning dreams into reality — one commit at a time
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Premhari-7&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS&abbreviated=true" />
-
-<br/>
-<sub>Prem Hari S &nbsp;·&nbsp; Sri Krishna Arts and Science College &nbsp;·&nbsp; Coimbatore, India</sub>
+<sub>Prem Hari S &nbsp;·&nbsp; Sri Krishna Arts and Science College, Coimbatore &nbsp;·&nbsp; India</sub>
 
 </div>
