@@ -1,46 +1,65 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&text=PREM%20HARI%20S&fontSize=72&color=0:0a0a0f,40:0d1b2a,100:0a0a0f&fontColor=00FFD1&stroke=00FFD1&strokeWidth=2&animation=fadeIn&fontAlignY=46&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20React%20Native&descAlignY=68&descSize=14&descColor=7FFFD4" />
-
-<!-- ANIMATED ROLE TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2400&pause=900&color=00FFD1&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;React+Native+%7C+Android+Developer;UI%2FUX+Designer+%7C+Figma;B.Sc+Computer+Technology+%40+SKAC;Intern+%40+NxtLogics+Software+Solutions;Turning+ideas+into+production-grade+software" alt="Typing" />
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/premhari07">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://www.instagram.com/prem_lynx_25/">
-<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
-<a href="mailto:haripradeep185@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://prem-hari-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00FFD1?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-
-<br/><br/>
-
-<!-- VISITOR COUNTER — most reliable service -->
-<img src="https://profile-counter.glitch.me/Premhari-7/count.svg" alt="Visitor Count" />
+<!-- ANIMATED VENOM BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=PREM%20HARI%20S&fontSize=80&color=0:000000,30:0a0f1e,60:0d1b2a,100:000000&fontColor=00FFD1&stroke=00FFD1&strokeWidth=2.5&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20React%20Native&descAlignY=67&descSize=15&descColor=7FFFD4" />
 
 </div>
 
+<div align="center">
+
+<!-- ROLE TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2200&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+Native+%7C+Android+Developer;UI%2FUX+Designer+%7C+Figma+Expert;B.Sc+Computer+Technology+%40+SKAC;Intern+%40+NxtLogics+Software+Solutions;Turning+ideas+into+production-grade+software" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/premhari07">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="https://www.instagram.com/prem_lynx_25/">
+  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>&nbsp;
+<a href="mailto:haripradeep185@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://prem-hari-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00FFD1?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</div>
+
+<br/>
+
 ---
 
-<!-- AVATAR + BIO SIDE BY SIDE -->
-<img align="right" src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/avatar.jpeg" width="200" style="border-radius:16px; margin-left:20px;" />
+<!-- AVATAR CENTERED IN CIRCLE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/avatar.jpeg" width="150" style="border-radius:50%;border:3px solid #00FFD1;" />
+</div>
 
-### PREM HARI S
+<br/>
 
-**B.Sc Computer Technology** — Sri Krishna Arts and Science College, Coimbatore
-**CGPA:** 8.4 &nbsp;|&nbsp; **Year:** 2nd
-**Intern:** NxtLogics Software Solutions
+<!-- ANIMATED INFO TABLE -->
+<div align="center">
 
-A passionate full-stack developer who builds real-world MERN and React Native applications. Strong interest in clean UI design, system architecture, and mobile-first development. Currently building the **Nihongo Learning Platform** — a JLPT exam prep app for Android.
+| | |
+|:---:|:---|
+| **Name** | Prem Hari S |
+| **Role** | Full Stack Developer · UI/UX Designer · React Native Developer |
+| **College** | Sri Krishna Arts and Science College, Coimbatore |
+| **Degree** | B.Sc Computer Technology · CGPA 8.4 · 2nd Year |
+| **Internship** | NxtLogics Software Solutions |
+| **Building** | Nihongo Learning Platform — React Native Android App |
+| **Contact** | haripradeep185@gmail.com |
+| **Portfolio** | [prem-hari-portfolio.vercel.app](https://prem-hari-portfolio.vercel.app/) |
 
-**Certified in:** Google UX Design &nbsp;·&nbsp; Google AI Essentials &nbsp;·&nbsp; NPTEL Silver &nbsp;·&nbsp; JLPT N5
+</div>
 
-<br clear="right"/>
+<br/>
 
 ---
 
@@ -48,32 +67,33 @@ A passionate full-stack developer who builds real-world MERN and React Native ap
 
 <div align="center">
 
-**Languages**
-<br/>
+**LANGUAGES**
+
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,html,css&theme=dark" />
 
 <br/><br/>
 
-**Frontend & Mobile**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+**FRONTEND & MOBILE**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 
 <br/><br/>
 
-**Backend & Database**
-<br/>
+**BACKEND & DATABASE**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" />
 
 <br/><br/>
 
-**Tools & Platforms**
-<br/>
+**TOOLS & PLATFORMS**
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,androidstudio&theme=dark" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -83,62 +103,55 @@ A passionate full-stack developer who builds real-world MERN and React Native ap
 
 <table>
 <tr>
-<td align="center" width="50%">
 
-**Nihongo Learning Platform**
-<br/><sub>React Native · Expo · Node.js · MongoDB</sub>
-<br/><br/>
-Full-stack JLPT exam prep Android app with AI samurai chatbot, animated certificates, push notifications and progress tracking.
-
+<td width="50%" valign="top" align="center">
+<img src="https://img.shields.io/badge/01-Nihongo_Learning_Platform-00FFD1?style=for-the-badge&logo=android&logoColor=black"/>
+<br/><sub><b>React Native · Expo · Node.js · MongoDB · Express</b></sub><br/><br/>
+Full-stack JLPT exam prep Android app. AI samurai chatbot, animated certificates, push notifications and progress tracking system.
 </td>
-<td align="center" width="50%">
 
-**Maatram Alumni Connect**
-<br/><sub>React · Node.js · MongoDB · Socket.io</sub>
-<br/><br/>
+<td width="50%" valign="top" align="center">
+<img src="https://img.shields.io/badge/02-Maatram_Alumni_Connect-0A66C2?style=for-the-badge&logo=react&logoColor=white"/>
+<br/><sub><b>React · Node.js · MongoDB · Socket.io</b></sub><br/><br/>
 Alumni networking platform with role-based dashboards, event management and real-time activity feeds.
-
 </td>
+
 </tr>
 <tr>
-<td align="center" width="50%">
 
-**Plant Disease Analyzer**
-<br/><sub>Python · TensorFlow · React · FastAPI</sub>
-<br/><br/>
+<td width="50%" valign="top" align="center">
+<img src="https://img.shields.io/badge/03-Plant_Disease_Analyzer-2EA043?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<br/><sub><b>Python · TensorFlow · React · FastAPI</b></sub><br/><br/>
 AI-powered plant health detection with image recognition, disease classification and treatment suggestions.
-
 </td>
-<td align="center" width="50%">
 
-**Smart Parking System**
-<br/><sub>MERN Stack · Socket.io · IoT</sub>
-<br/><br/>
-Real-time IoT parking slot tracker with QR-based booking and a live availability dashboard.
-
+<td width="50%" valign="top" align="center">
+<img src="https://img.shields.io/badge/04-Smart_Parking_System-FF6B6B?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<br/><sub><b>MERN Stack · Socket.io · IoT</b></sub><br/><br/>
+Real-time IoT parking slot tracker with QR-based booking and live availability dashboard.
 </td>
+
 </tr>
 <tr>
-<td align="center" width="50%">
 
-**Scent Bite**
-<br/><sub>MERN Stack · Tailwind CSS · JWT</sub>
-<br/><br/>
-Full-featured fragrance e-commerce platform with product filtering, cart management and JWT auth.
-
+<td width="50%" valign="top" align="center">
+<img src="https://img.shields.io/badge/05-Scent_Bite-FF9F00?style=for-the-badge&logo=shopify&logoColor=white"/>
+<br/><sub><b>MERN Stack · Tailwind CSS · JWT</b></sub><br/><br/>
+Full-featured fragrance e-commerce platform with product filtering, cart management and JWT authentication.
 </td>
-<td align="center" width="50%">
 
-**GUVI Auth System**
-<br/><sub>Bootstrap · PHP · MongoDB · Redis</sub>
-<br/><br/>
-Multi-page auth system with glassmorphism UI, Redis session caching and MongoDB backend.
-
+<td width="50%" valign="top" align="center">
+<img src="https://img.shields.io/badge/06-GUVI_Auth_System-7C3AED?style=for-the-badge&logo=redis&logoColor=white"/>
+<br/><sub><b>Bootstrap · PHP · MongoDB · Redis</b></sub><br/><br/>
+Multi-page glassmorphism auth system with Redis session caching and MongoDB backend integration.
 </td>
+
 </tr>
 </table>
 
 </div>
+
+<br/>
 
 ---
 
@@ -146,21 +159,23 @@ Multi-page auth system with glassmorphism UI, Redis session caching and MongoDB 
 
 <div align="center">
 
-<!-- Using githubstats.me — most reliable 2025 alternative -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Premhari-7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=C9D1D9&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=1800" />
-&nbsp;
-<img height="160" src="https://streak-stats.demolab.com/?user=Premhari-7&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=94A3B8&dates=555&currStreakNum=FFFFFF&sideNums=00FFD1&stroke=00FFD130" />
+<!-- STREAK — demolab is most stable -->
+<img src="https://streak-stats.demolab.com/?user=Premhari-7&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=94A3B8&dates=555555&currStreakNum=FFFFFF&sideNums=00FFD1&stroke=00000000&card_width=500" />
 
 <br/><br/>
 
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premhari-7&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=C9D1D9&langs_count=8&cache_seconds=1800" />
+<!-- STATS — using readme-stats with cache bypass -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Premhari-7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=C9D1D9&rank_icon=github&count_private=true&cache_seconds=3600" />&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premhari-7&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=C9D1D9&langs_count=6&cache_seconds=3600" />
 
 <br/><br/>
 
-<!-- Activity Graph — most stable provider -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Premhari-7&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&area_color=00332a&hide_border=true&custom_title=Prem+Hari+%E2%80%94+Contribution+Graph" />
+<!-- CONTRIBUTION GRAPH — most reliable provider -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Premhari-7&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&area_color=003322&hide_border=true&custom_title=Prem+Hari+%E2%80%94+Contribution+Graph" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -170,6 +185,8 @@ Multi-page auth system with glassmorphism UI, Redis session caching and MongoDB 
 <img src="https://github-profile-trophy.vercel.app/?username=Premhari-7&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=8" />
 </div>
 
+<br/>
+
 ---
 
 ## CERTIFICATIONS
@@ -178,24 +195,34 @@ Multi-page auth system with glassmorphism UI, Redis session caching and MongoDB 
 
 <img src="https://img.shields.io/badge/Google_UX_Design-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Google_AI_Essentials-EA4335?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/NPTEL_Silver-FF6B00?style=for-the-badge&logo=bookstack&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/NPTEL_Silver-FF6B00?style=for-the-badge&logo=academia&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/JLPT_N5-DC143C?style=for-the-badge&logo=duolingo&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/NxtLogics_Intern-00FFD1?style=for-the-badge&logo=checkmarx&logoColor=black" />
+<img src="https://img.shields.io/badge/NxtLogics_Internship-00FFD1?style=for-the-badge&logo=checkmarx&logoColor=black" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- SNAKE CONTRIBUTION ANIMATION — generated by GitHub Actions into output branch -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/output/github-snake.svg" alt="Contribution Snake" />
 
 </div>
 
 ---
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:0a0a0f&height=130&section=footer&text=Let%27s+Build+Something+Real&fontSize=20&fontColor=00FFD1&fontAlignY=65&animation=fadeIn" />
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b2a,100:000000&height=140&section=footer&text=Let%27s+Build+Something+Real&fontSize=20&fontColor=00FFD1&fontAlignY=68&animation=fadeIn" />
 
 <div align="center">
 
-```
-「 コードで夢を実現する 」
-Turning dreams into reality — one commit at a time
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=00FFD180&center=true&vCenter=true&width=500&lines=%E3%80%8C+%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E5%A4%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B+%E3%80%8D;Turning+dreams+into+reality+%E2%80%94+one+commit+at+a+time" />
 
-<sub>Prem Hari S &nbsp;·&nbsp; Sri Krishna Arts and Science College, Coimbatore &nbsp;·&nbsp; India</sub>
+<br/>
+
+<sub>Prem Hari S &nbsp;·&nbsp; Sri Krishna Arts and Science College &nbsp;·&nbsp; Coimbatore, India</sub>
 
 </div>
