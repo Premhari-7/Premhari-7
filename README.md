@@ -2,7 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=PREM%20HARI%20S&fontSize=82&color=0:000000,30:0a0f1e,60:0d1b2a,100:000000&fontColor=00FFD1&stroke=00FFD1&strokeWidth=2.5&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20React%20Native&descAlignY=67&descSize=15&descColor=7FFFD4" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2200&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+Native+%7C+Android+Developer;UI%2FUX+Designer+%7C+Figma+Expert;B.Sc+Computer+Technology+%40+SKAC;Intern+%40+NxtLogics+Software+Solutions;Turning+ideas+into+production-grade+software" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2200&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+Native+%7C+Android+Developer;UI%2FUX+Designer+%7C+Figma+Expert;B.Sc+Computer+Technology+%40+SKASC;Intern+%40+NxtLogics+Software+Solutions;Turning+ideas+into+production-grade+software" />
 
 <br/>
 
@@ -19,12 +21,11 @@
 
 <div align="center">
 
-<!-- AVATAR — large, circular, glowing border via capsule-render trick -->
-<img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/avatar.jpeg" width="200" style="border-radius:50%;border:4px solid #00FFD1;box-shadow:0 0 25px #00FFD1;" />
+<img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/avatar.jpeg" width="200" style="border-radius:50%;border:4px solid #00FFD1;" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3500&pause=1500&color=7FFFD4&center=true&vCenter=true&width=600&lines=Building+real+software+that+solves+real+problems.;Currently%3A+Nihongo+Learning+Platform+%E2%80%94+React+Native;Coimbatore+%7C+India+%7C+Open+to+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3500&pause=1500&color=7FFFD4&center=true&vCenter=true&width=650&lines=Building+real+software+that+solves+real+problems.;Nihongo+Learning+Platform+%E2%80%94+Completed;Maatram+Alumni+Connect+%E2%80%94+Completed;Smart+Parking+System+%E2%80%94+Completed;Scent+Bite+%E2%80%94+Completed;SKASC+%7C+Coimbatore+%7C+Open+to+Opportunities" />
 
 </div>
 
@@ -36,11 +37,12 @@
 
 | | |
 |:---:|:---|
-| **College** | Sri Krishna Arts and Science College, Coimbatore |
-| **Degree** | B.Sc Computer Technology &nbsp;·&nbsp; CGPA 8.4 &nbsp;·&nbsp; 2nd Year |
+| **College** | Sri Krishna Arts and Science College (SKASC), Coimbatore |
+| **Degree** | B.Sc Computer Technology &nbsp;·&nbsp; 3rd Year |
 | **Internship** | NxtLogics Software Solutions |
-| **Currently Building** | Nihongo Learning Platform — React Native Android App |
 | **Certified** | Google UX Design &nbsp;·&nbsp; Google AI Essentials &nbsp;·&nbsp; NPTEL Silver &nbsp;·&nbsp; JLPT N5 |
+| **Contact** | haripradeep185@gmail.com |
+| **Portfolio** | [prem-hari-portfolio.vercel.app](https://prem-hari-portfolio.vercel.app/) |
 
 </div>
 
@@ -156,33 +158,30 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 ## CERTIFICATIONS
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/Google_UX_Design-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Google_AI_Essentials-EA4335?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/NPTEL_Silver-FF6B00?style=for-the-badge&logo=academia&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/JLPT_N5-DC143C?style=for-the-badge&logo=duolingo&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/NxtLogics_Internship-00FFD1?style=for-the-badge&logo=checkmarx&logoColor=black" />
+
 </div>
 
 <br/>
 
 ---
 
-<!-- SNAKE ANIMATION — runs via GitHub Actions -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/output/github-snake.svg" alt="Contribution Snake" />
-</div>
-
-<br/>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b2a,100:000000&height=140&section=footer&text=Let%27s+Build+Something+Real&fontSize=20&fontColor=00FFD1&fontAlignY=68&animation=fadeIn" />
+<!-- WAVE SEPARATOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:000000&height=80&section=header&animation=fadeIn" />
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=00FFD180&center=true&vCenter=true&width=520&lines=%E3%80%8C+%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E5%A4%A2%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B+%E3%80%8D;Turning+dreams+into+reality+%E2%80%94+one+commit+at+a+time" />
 
-<br/>
-<sub>Prem Hari S &nbsp;·&nbsp; Sri Krishna Arts and Science College &nbsp;·&nbsp; Coimbatore, India</sub>
+</div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b2a,100:000000&height=140&section=footer&text=Let%27s+Build+Something+Real&fontSize=20&fontColor=00FFD1&fontAlignY=68&animation=fadeIn" />
+
+<div align="center">
+<sub>Prem Hari S &nbsp;·&nbsp; Sri Krishna Arts and Science College (SKASC) &nbsp;·&nbsp; Coimbatore, India</sub>
 </div>
