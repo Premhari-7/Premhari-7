@@ -147,28 +147,24 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 
 
 ---
+---
 
-## TROPHIES & PROFILE STATS
+## TROPHIES & GITHUB PERFORMANCE
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Premhari-7&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+<img src="https://github-profile-trophy.vercel.app/?username=Premhari-7&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
 
 <br/><br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Premhari-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Premhari-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF&rank_icon=github" />
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premhari-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF" />
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Premhari-7&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
 <br/>
 
----
 ---
 ---
 
