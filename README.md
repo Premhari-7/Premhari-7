@@ -145,24 +145,28 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 
 ---
 
-## ACHIEVEMENTS
+
+## TROPHIES & PROFILE STATS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Repositories-27+-00FFD1?style=for-the-badge&logo=github&logoColor=black" />&nbsp;
-<img src="https://img.shields.io/badge/Full_Stack_Projects-6+-0A66C2?style=for-the-badge&logo=stackblitz&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/React_Native_Apps-1+-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Premhari-7&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/MERN_Stack-Expert-2EA043?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/UI%2FUX_Design-Figma_Certified-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Open_to-Opportunities-FF9F00?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Premhari-7&repo=Scent-Bite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Premhari-7&repo=Maatram-AlumniConnect&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Premhari-7&repo=Nihongo-Learning-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" />&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Premhari-7&repo=Smart-Parking-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF" />
 
 </div>
 
 <br/>
 
+---
 ---
 
 ## CERTIFICATIONS
