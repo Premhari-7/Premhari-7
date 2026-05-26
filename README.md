@@ -145,12 +145,6 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 
 ---
 
-
----
----
-
----
-
 ## TROPHIES & GITHUB PERFORMANCE
 
 <div align="center">
@@ -173,9 +167,6 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 
 <br/>
 
----
-
----
 ---
 
 ## CERTIFICATIONS
