@@ -145,10 +145,20 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 
 ---
 
-## TROPHIES
+## ACHIEVEMENTS
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Premhari-7&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=8" />
+
+<img src="https://img.shields.io/badge/Repositories-27+-00FFD1?style=for-the-badge&logo=github&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Full_Stack_Projects-6+-0A66C2?style=for-the-badge&logo=stackblitz&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/React_Native_Apps-1+-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MERN_Stack-Expert-2EA043?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/UI%2FUX_Design-Figma_Certified-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Open_to-Opportunities-FF9F00?style=for-the-badge&logo=handshake&logoColor=white" />
+
 </div>
 
 <br/>
@@ -171,7 +181,6 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 
 ---
 
-<!-- WAVE SEPARATOR -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:000000&height=80&section=header&animation=fadeIn" />
 
 <div align="center">
