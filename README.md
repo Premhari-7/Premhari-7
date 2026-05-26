@@ -149,21 +149,31 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 ---
 ---
 
+---
+
 ## TROPHIES & GITHUB PERFORMANCE
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Premhari-7&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Premhari-7&theme=github_dark" />
 
 <br/><br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Premhari-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=FFFFFF&rank_icon=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Premhari-7&theme=github_dark" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premhari-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Premhari-7&theme=github_dark&utcOffset=5.5" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Premhari-7&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Premhari-7&theme=github_dark" />
 
 </div>
 
 <br/>
+
+---
 
 ---
 ---
