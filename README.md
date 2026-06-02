@@ -72,7 +72,7 @@
 <br/><br/>
 
 **TOOLS**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio&theme=dark" />
 
 </div>
 
@@ -106,7 +106,7 @@ AI-powered plant health detection with image recognition, disease classification
 <td width="50%" valign="top" align="center">
 <img src="https://img.shields.io/badge/04-Smart_Parking_System-FF6B6B?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <br/><sub><b>MERN Stack · Socket.io · IoT</b></sub><br/><br/>
-Real-time IoT parking slot tracker with QR-based booking and live availability dashboard.
+Real-time IoT parking slot tracker with slot booking and live availability dashboard.
 </td>
 </tr>
 <tr>
