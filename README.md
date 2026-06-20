@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/logo.png" width="200" style="border-radius:50%;border:4px solid #00FFD1;" />
+<img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/animated_logo.svg" width="240" />
 
 <br/><br/>
 
