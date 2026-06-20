@@ -35,14 +35,9 @@
 
 <div align="center">
 
-| | |
-|:---:|:---|
-| **College** | Sri Krishna Arts and Science College (SKASC), Coimbatore |
-| **Degree** | B.Sc Computer Technology &nbsp;·&nbsp; 3rd Year |
-| **Internship** | NxtLogics Software Solutions |
-| **Certified** | Google UX Design &nbsp;·&nbsp; Google AI Essentials &nbsp;·&nbsp; NPTEL Silver &nbsp;·&nbsp; JLPT N5 |
-| **Contact** | haripradeep185@gmail.com |
-| **Portfolio** | [prem-hari-portfolio.vercel.app](https://prem-hari-portfolio.vercel.app/) |
+<a href="https://prem-hari-portfolio.vercel.app/">
+  <img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/details.svg" alt="Developer Details" />
+</a>
 
 </div>
 

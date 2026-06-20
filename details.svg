@@ -1,0 +1,62 @@
+<svg width="850" height="320" viewBox="0 0 850 320" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* Default Dark Mode */
+    .bg { fill: #0D1117; }
+    .border { stroke: #00FFD1; stroke-width: 2; fill: none; animation: pulseDark 3s infinite alternate; }
+    .text { font-family: Consolas, Monaco, "Courier New", monospace; font-size: 16px; fill: #8B949E; }
+    .highlight { fill: #00FFD1; font-weight: bold; }
+    .value { fill: #C9D1D9; }
+    .string { fill: #A5D6FF; }
+    .cursor { fill: #00FFD1; animation: blink 1s step-end infinite; }
+    
+    @keyframes pulseDark {
+      0% { stroke-opacity: 0.4; filter: drop-shadow(0 0 2px #00FFD1); }
+      100% { stroke-opacity: 1; filter: drop-shadow(0 0 8px #00FFD1); }
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    /* Light Mode */
+    @media (prefers-color-scheme: light) {
+      .bg { fill: #FFFFFF; }
+      .border { stroke: #0969DA; animation: pulseLight 3s infinite alternate; }
+      .text { fill: #57606A; }
+      .highlight { fill: #0969DA; }
+      .value { fill: #24292F; }
+      .string { fill: #0A3069; }
+      .cursor { fill: #0969DA; }
+    }
+    @keyframes pulseLight {
+      0% { stroke-opacity: 0.4; filter: drop-shadow(0 0 2px #0969DA); }
+      100% { stroke-opacity: 1; filter: drop-shadow(0 0 8px #0969DA); }
+    }
+  </style>
+
+  <rect width="840" height="310" x="5" y="5" rx="10" ry="10" class="bg border" />
+  
+  <!-- Mac Window Buttons -->
+  <circle cx="25" cy="25" r="6" fill="#FF5F56" />
+  <circle cx="45" cy="25" r="6" fill="#FFBD2E" />
+  <circle cx="65" cy="25" r="6" fill="#27C93F" />
+  
+  <!-- Title -->
+  <text x="325" y="30" class="text" font-size="14">~ / developer / profile.js</text>
+  
+  <!-- Content -->
+  <g transform="translate(30, 75)">
+    <text y="0" class="text"><tspan class="highlight">const</tspan> developer = {</text>
+    
+    <text y="35" class="text" x="20"><tspan class="highlight">college:</tspan> <tspan class="string">"Sri Krishna Arts and Science College (SKASC), Coimbatore"</tspan>,</text>
+    
+    <text y="70" class="text" x="20"><tspan class="highlight">degree:</tspan> <tspan class="string">"B.Sc Computer Technology • 3rd Year"</tspan>,</text>
+    
+    <text y="105" class="text" x="20"><tspan class="highlight">internship:</tspan> <tspan class="string">"NxtLogics Software Solutions"</tspan>,</text>
+    
+    <text y="140" class="text" x="20"><tspan class="highlight">certified:</tspan> [<tspan class="string">"Google UX Design"</tspan>, <tspan class="string">"Google AI"</tspan>, <tspan class="string">"NPTEL Silver"</tspan>, <tspan class="string">"JLPT N5"</tspan>],</text>
+    
+    <text y="175" class="text" x="20"><tspan class="highlight">contact:</tspan> <tspan class="string">"haripradeep185@gmail.com"</tspan>,</text>
+    
+    <text y="210" class="text" x="20"><tspan class="highlight">portfolio:</tspan> <tspan class="string">"prem-hari-portfolio.vercel.app"</tspan></text>
+    
+    <text y="245" class="text">};<tspan class="cursor">_</tspan></text>
+  </g>
+</svg>
