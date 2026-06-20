@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2200&pause=800&color=0ea5e9&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+Native+%7C+Android+Developer;UI%2FUX+Designer+%7C+Figma+Expert;B.Sc+Computer+Technology+%40+SKASC;Intern+%40+NxtLogics+Software+Solutions;Turning+ideas+into+production-grade+software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=2200&pause=800&color=0ea5e9&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+Native+%7C+Android+Developer;UI%2FUX+Designer+%7C+Figma+Expert;B.Sc+Computer+Technology+%40+SKASC;Intern+%40+NxtLogic+Software+Solutions;Turning+ideas+into+production-grade+software" />
 
 <br/>
 
@@ -45,7 +45,11 @@
 
 ---
 
-## TECH STACK
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=TECH+ARSENAL" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=0ea5e9&vCenter=true&width=400&lines=TECH+ARSENAL" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=TECH+ARSENAL" />
+</picture>
 
 <div align="center">
 
@@ -75,7 +79,11 @@
 
 ---
 
-## PROJECTS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=PROJECT+SHOWCASE" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=0ea5e9&vCenter=true&width=400&lines=PROJECT+SHOWCASE" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=PROJECT+SHOWCASE" />
+</picture>
 
 <div align="center">
 
@@ -124,7 +132,11 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 
 ---
 
-## GITHUB STATS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=GITHUB+ANALYTICS" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=0ea5e9&vCenter=true&width=400&lines=GITHUB+ANALYTICS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=GITHUB+ANALYTICS" />
+</picture>
 
 <div align="center">
 
@@ -148,21 +160,11 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 
 ---
 
-## TROPHIES
-
-<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Premhari-7&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Premhari-7&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Premhari-7&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=PERFORMANCE+METRICS" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=0ea5e9&vCenter=true&width=400&lines=PERFORMANCE+METRICS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=PERFORMANCE+METRICS" />
 </picture>
-</div>
-
-<br/>
-
----
-
-## GITHUB PERFORMANCE
 
 <div align="center">
 
@@ -206,7 +208,11 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 
 ---
 
-## CERTIFICATIONS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=ACHIEVEMENTS" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=0ea5e9&vCenter=true&width=400&lines=ACHIEVEMENTS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=ACHIEVEMENTS" />
+</picture>
 
 <div align="center">
 
@@ -214,7 +220,7 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 <img src="https://img.shields.io/badge/Google_AI_Essentials-EA4335?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/NPTEL_Silver-FF6B00?style=for-the-badge&logo=academia&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/JLPT_N5-DC143C?style=for-the-badge&logo=duolingo&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/NxtLogics_Internship-00FFD1?style=for-the-badge&logo=checkmarx&logoColor=black" />
+<img src="https://img.shields.io/badge/NxtLogic_Internship-00FFD1?style=for-the-badge&logo=checkmarx&logoColor=black" />
 
 </div>
 
