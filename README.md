@@ -179,7 +179,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Oracle_Gen_AI_Professional_(92%25)-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Oracle_Gen_AI_Professional_(92%25)-F80000?style=for-the-badge&logo=credly&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Google_UX_Design-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Google_AI_Essentials-EA4335?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/NPTEL_Silver-FF6B00?style=for-the-badge&logo=academia&logoColor=white" />&nbsp;
