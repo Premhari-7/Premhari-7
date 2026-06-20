@@ -91,37 +91,73 @@
 <tr>
 <td width="50%" valign="top" align="center">
 <img src="https://img.shields.io/badge/01-Nihongo_Learning_Platform-00FFD1?style=for-the-badge&logo=android&logoColor=black"/>
-<br/><sub><b>React Native · Expo · Node.js · MongoDB</b></sub><br/><br/>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=350&lines=React+Native+•+Expo;Node.js+•+MongoDB" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&width=350&lines=React+Native+•+Expo;Node.js+•+MongoDB" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=350&lines=React+Native+•+Expo;Node.js+•+MongoDB" />
+</picture>
+<br/>
 Full-stack JLPT exam prep Android app. AI samurai chatbot, animated certificates, push notifications and progress tracking.
 </td>
 <td width="50%" valign="top" align="center">
 <img src="https://img.shields.io/badge/02-Maatram_Alumni_Connect-0A66C2?style=for-the-badge&logo=react&logoColor=white"/>
-<br/><sub><b>React · Node.js · MongoDB · Socket.io</b></sub><br/><br/>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=350&lines=React+•+Node.js;MongoDB+•+Socket.io" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&width=350&lines=React+•+Node.js;MongoDB+•+Socket.io" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=350&lines=React+•+Node.js;MongoDB+•+Socket.io" />
+</picture>
+<br/>
 Alumni networking platform with role-based dashboards, event management and real-time activity feeds.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 <img src="https://img.shields.io/badge/03-Plant_Disease_Analyzer-2EA043?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<br/><sub><b>Python · TensorFlow · React · FastAPI</b></sub><br/><br/>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=350&lines=Python+•+TensorFlow;React+•+FastAPI" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&width=350&lines=Python+•+TensorFlow;React+•+FastAPI" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=350&lines=Python+•+TensorFlow;React+•+FastAPI" />
+</picture>
+<br/>
 AI-powered plant health detection with image recognition, disease classification and treatment suggestions.
 </td>
 <td width="50%" valign="top" align="center">
 <img src="https://img.shields.io/badge/04-Smart_Parking_System-FF6B6B?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<br/><sub><b>MERN Stack · Socket.io · IoT</b></sub><br/><br/>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=350&lines=MERN+Stack+•+IoT;Socket.io+•+Arduino" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&width=350&lines=MERN+Stack+•+IoT;Socket.io+•+Arduino" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=350&lines=MERN+Stack+•+IoT;Socket.io+•+Arduino" />
+</picture>
+<br/>
 Real-time IoT parking slot tracker with slot booking and live availability dashboard.
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 <img src="https://img.shields.io/badge/05-Scent_Bite-FF9F00?style=for-the-badge&logo=shopify&logoColor=white"/>
-<br/><sub><b>MERN Stack · Tailwind CSS · JWT</b></sub><br/><br/>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=350&lines=MERN+Stack+•+Tailwind;JWT+Auth+•+Redux" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&width=350&lines=MERN+Stack+•+Tailwind;JWT+Auth+•+Redux" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=350&lines=MERN+Stack+•+Tailwind;JWT+Auth+•+Redux" />
+</picture>
+<br/>
 Full-featured fragrance e-commerce with product filtering, cart management and JWT auth.
 </td>
 <td width="50%" valign="top" align="center">
-<img src="https://img.shields.io/badge/06-GUVI_Auth_System-7C3AED?style=for-the-badge&logo=redis&logoColor=white"/>
-<br/><sub><b>Bootstrap · PHP · MongoDB · Redis</b></sub><br/><br/>
-Glassmorphism auth system with Redis session caching and MongoDB backend integration.
+<img src="https://img.shields.io/badge/06-Personal_Portfolio-FF007F?style=for-the-badge&logo=vercel&logoColor=white"/>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=350&lines=Next.js+•+Tailwind+CSS;Framer+Motion+•+Vercel" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=0ea5e9&center=true&vCenter=true&width=350&lines=Next.js+•+Tailwind+CSS;Framer+Motion+•+Vercel" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=350&lines=Next.js+•+Tailwind+CSS;Framer+Motion+•+Vercel" />
+</picture>
+<br/>
+Interactive developer portfolio website with smooth 3D animations, custom SVGs, dark mode, and responsive design.
 </td>
 </tr>
 </table>
