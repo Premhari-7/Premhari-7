@@ -17,7 +17,9 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/divider.svg" alt="divider" width="100%" />
+</div>
 
 <div align="center">
 
@@ -31,7 +33,9 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/divider.svg" alt="divider" width="100%" />
+</div>
 
 <div align="center">
 
@@ -43,7 +47,9 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/divider.svg" alt="divider" width="100%" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=TECH+ARSENAL" />
@@ -77,7 +83,9 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/divider.svg" alt="divider" width="100%" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=PROJECT+SHOWCASE" />
@@ -93,7 +101,9 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/divider.svg" alt="divider" width="100%" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=GITHUB+ANALYTICS" />
@@ -121,7 +131,9 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/divider.svg" alt="divider" width="100%" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=PERFORMANCE+METRICS" />
@@ -169,7 +181,9 @@
 
 <br/>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/divider.svg" alt="divider" width="100%" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=600&lines=ACHIEVEMENTS+AND+CERTIFICATES" />
@@ -190,10 +204,10 @@
 
 <br/>
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=140&section=footer&text=Let%27s+Build+Something+Real&fontSize=20&color=timeAuto&fontColor=00FFD1&stroke=000000&strokeWidth=1&fontAlignY=68&animation=twinkling" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/divider.svg" alt="divider" width="100%" />
+</div>
 
 <div align="center">
-<sub>Prem Hari S &nbsp;·&nbsp; Sri Krishna Arts and Science College (SKASC) &nbsp;·&nbsp; Coimbatore, India</sub>
+  <img src="https://raw.githubusercontent.com/Premhari-7/Premhari-7/main/footer.svg" alt="footer" width="100%" />
 </div>
