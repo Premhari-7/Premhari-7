@@ -209,9 +209,9 @@ Glassmorphism auth system with Redis session caching and MongoDB backend integra
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=ACHIEVEMENTS" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=0ea5e9&vCenter=true&width=400&lines=ACHIEVEMENTS" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=400&lines=ACHIEVEMENTS" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=600&lines=ACHIEVEMENTS+AND+CERTIFICATES" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=0ea5e9&vCenter=true&width=600&lines=ACHIEVEMENTS+AND+CERTIFICATES" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=1000&color=00FFD1&vCenter=true&width=600&lines=ACHIEVEMENTS+AND+CERTIFICATES" />
 </picture>
 
 <div align="center">
